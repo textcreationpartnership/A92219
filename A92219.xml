@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons and arguments alledged to satisfie the kingdome, wherein it is proved to be unfit to trust papists with any power, government or command in the church, state, or wars of England, and the evill consequence therof, confirmed by severall proofs, with the names of divers seminary priests, friers, and papists, and their pernicions [sic] designes and plots, found out by the high Court of Parliament, and remain in sundry prisons in the cities of London and Westminster, whose names are as followeth. Father Philips, the Queenes confessour, Father Browne a priest, Rivers and Haman two priests, Coleman and Norton two friers, Father Thomas, Father Conner, Father Hall, and Robert Grosse a priest, who was committed to Newgate on Saturday last, for framing a picture in scorn of the Earle of Essex L. Generall. Wherein is shewed the cruelty and inhumane actions of the papists, in torturing and putting to death many hundred Protestants in Ireland and other places.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92219</idno><idno type="EEBO-CITATION">99859186</idno>
+  <idno type="VID">156096</idno>
+  <idno type="EEBO-PROQUEST">2240861738</idno>
+  
+            <idno type="STC">Wing R478</idno>
+            <idno type="STC">Thomason E118_21</idno>
+            <idno type="STC">ESTC R12005</idno>
+            <idno type="PROQUEST">99859186</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859186e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92219)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156096)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons and arguments alledged to satisfie the kingdome, wherein it is proved to be unfit to trust papists with any power, government or command in the church, state, or wars of England, and the evill consequence therof, confirmed by severall proofs, with the names of divers seminary priests, friers, and papists, and their pernicions [sic] designes and plots, found out by the high Court of Parliament, and remain in sundry prisons in the cities of London and Westminster, whose names are as followeth. Father Philips, the Queenes confessour, Father Browne a priest, Rivers and Haman two priests, Coleman and Norton two friers, Father Thomas, Father Conner, Father Hall, and Robert Grosse a priest, who was committed to Newgate on Saturday last, for framing a picture in scorn of the Earle of Essex L. Generall. Wherein is shewed the cruelty and inhumane actions of the papists, in torturing and putting to death many hundred Protestants in Ireland and other places.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.A. and A.C. for T. Bates,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 21. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156096:1"/>
+            <p>REASONS <hi>AND</hi> ARGUMENTS Alledged to satisfie the Kingdome, wherein it is proved to be unfit to trust Papists with any power, government or command in the Church, State, or Wars of <hi>England,</hi> and the evill consequence therof, confirmed by severall proofs, with the names of divers Seminary Priests, Friers, and Papists, and their pernicions designes and plots, found out by the high Court of Parliament, and remain in sundry Prisons in the Cities of <hi>London</hi> and <hi>Westminster,</hi> whose names are as followeth.</p>
+            <p>
+               <hi>Father Philips,</hi> the Queenes Confessour, Father <hi>Browne</hi> a Priest, <hi>Rivers</hi> and <hi>Haman</hi> two Priests, <hi>Coleman</hi> and <hi>Norton</hi> two Friers, Father <hi>Thomas,</hi> Father <hi>Conner,</hi> Father <hi>Hall,</hi> and <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>obert Grosse</hi> a Priest, who was committed to <hi>Newgate</hi> on Saturday last, for framing a picture in scorn of the Earle of <hi>Essex</hi> L. Generall.</p>
+            <p>
+               <hi>Wherein is shewed the cruelty and inhumane actions of the Pa<g ref="char:EOLhyphen"/>pists, in torturing and putting to death many hundred Pro<g ref="char:EOLhyphen"/>testants in</hi> Ireland <hi>and other places.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R.A.</hi> and <hi>A.C.</hi> for <hi>T. Bates. Septemb.</hi> 21. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156096:2"/>
+            <pb n="1" facs="tcp:156096:2"/>
+            <head>Reasons and Arguments to prove that it is unfit and dangerous to intrust Papists with any power, government or command in the Church State, or warres of <hi>England,</hi> and the evill consequence thereof, confirmed by severall proofes, with the names of diverse Seminary Priests, Friers, and Papists, and their per<g ref="char:EOLhyphen"/>nicious designes and plots found out by the high Court of Parliament, and remaining at this time in sundry prisons in and about the cities of <hi>London</hi> and <hi>Westminster.</hi>
+            </head>
+            <p>BEcause some are easily inclined to be<g ref="char:EOLhyphen"/>lieve, that Papists orderly demeaning themselves, may bee capable of any place of trust or command in the Common<g ref="char:EOLhyphen"/>wealth, and may, as other subjects, doe their countrey service in the discharge of such of<g ref="char:EOLhyphen"/>fices as are or shall be committed or designed unto them in peace or war, it shall hereby ap<g ref="char:EOLhyphen"/>peare by many good convincing reasons drawn from divers politike &amp; civill grounds, that the negative of this affirmation is onely true by severall arguments, demonstrating that Papists ought not to be intrusted with a<g ref="char:EOLhyphen"/>ny government or command in the Church, State, or Wars of <hi>England,</hi> proved from the
+<pb n="2" facs="tcp:156096:3"/>effects and evill consequences thereof, and al<g ref="char:EOLhyphen"/>so by an induction of diverse pernicious de<g ref="char:EOLhyphen"/>signes which have been wrought, plotted and contrived by divers Seminary Priests, Friers and Papists.</p>
+            <p>The first argument is drawne from their adhering to the Pope: for the Papists do de<g ref="char:EOLhyphen"/>pend on the Pope for their faith, and give the Pope preheminency and supremacy before the King in all ecclesiasticall matters; and also authority to excommunicate: and ther<g ref="char:EOLhyphen"/>fore they cannot bee good subjects to the Kings Highnesse. And whereas good sub<g ref="char:EOLhyphen"/>jects are known by yeelding a willing obedi<g ref="char:EOLhyphen"/>ence to the Lawes of the Land, and strive to maintaine them in their essence and liberties, (the cause of the distractions of these times) Papists in many matters controverted and dubitable, or of weighty consequence, do al<g ref="char:EOLhyphen"/>low appeales to be made to <hi>Some,</hi> which is evidently contrary to the Laws of this Land. And whereas the King is as incompatible of any other equall, much lesse superiour, in all matters whether Ecclesiasticall or Civill, be<g ref="char:EOLhyphen"/>ing supreme Head and Governour, they de<g ref="char:EOLhyphen"/>rogate from the Kings Royall office, in attri<g ref="char:EOLhyphen"/>buting to the Pope a supremacy in all spiri<g ref="char:EOLhyphen"/>tuall causes. And besides they both count all such to be martyrs, who have beene exe<g ref="char:EOLhyphen"/>cuted for treason, which is a slander to the
+<pb n="3" facs="tcp:156096:3"/>State, and they give aid and maintenance to Seminaries and Jesuites, and thereby cherish and foster enemies to their countrey. Thus if the common-wealth had no better shield to defend it selfe, then by suffering Papists to command or govern in the Church or State, it would be like <hi>Brusidas</hi> the <hi>Lacedemonian,</hi> who being wounded through his shield, cried out, <hi>prodente me clypeo vulneratus,</hi> my buck<g ref="char:EOLhyphen"/>ler is the traytor through which I am woun<g ref="char:EOLhyphen"/>ded.</p>
+            <p>The question moved by the Popish Priests of consimilitude and likenesse between them and Puritans, inust be resolved by distincti<g ref="char:EOLhyphen"/>on; for if they be taken largely, for dange<g ref="char:EOLhyphen"/>rous wits, that courteously seeke the destru<g ref="char:EOLhyphen"/>ction of the Church, they may in some sort resemble <hi>Martin Marre-Prelate,</hi> and <hi>Hatchet,</hi> the l tter leaping o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of a Paritans skin into a Papists hide; but if they scandaloussy call many worthy Ministers of the Gospell Pu<g ref="char:EOLhyphen"/>ritans, as <hi>Calv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> and <hi>Beza,</hi> and the Preachers of <hi>Scotland,</hi> and the pious and true Profes<g ref="char:EOLhyphen"/>sours of the reformed Religion amongst us, very profitable Labourers and loyall Sub<g ref="char:EOLhyphen"/>jects, between those and the best learned of the Papists for true Religion, sound Divini<g ref="char:EOLhyphen"/>ty, and faithfull obedience to their Prince, there is no comparison at all.</p>
+            <pb n="4" facs="tcp:156096:4"/>
+            <p>Hereby it appeares that the faithfull Mini<g ref="char:EOLhyphen"/>sters that hold the orthodox articles of the Protestant Religion, excepting externall mat<g ref="char:EOLhyphen"/>ters of discipline &amp; ceremony, never attempt any thing against the life of their Prince, or the destruction of the Kingdome, as Priests and Jesuites have done, but maintaine the au<g ref="char:EOLhyphen"/>thority of the King, and the purity of Religi<g ref="char:EOLhyphen"/>on; not seducing in corners, but communicate with the Assembly in the Word and Sacra<g ref="char:EOLhyphen"/>ment, who publikely and privately pray for the King and State, detecting the conspiracies of common adversaries, not denying the oath of supremacie, but acknowledge the English Church to be a true Church, whereof them<g ref="char:EOLhyphen"/>selves are members.</p>
+            <p>But because contraries set forth each other mutually in a cleere and illustrious manner, behold how dangerous the Popes Champi<g ref="char:EOLhyphen"/>ons have been and are in the English Church or State. First <hi>Morton</hi> was the instrument or fire-brand of the commotion in the North. <hi>Allen, Hall,</hi> and <hi>Arden</hi> were continuall practi<g ref="char:EOLhyphen"/>sers against the State. <hi>Babington</hi> and his fel<g ref="char:EOLhyphen"/>low-conspirators, incited by <hi>Bullard,</hi> were the plotters of the horri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le gun-powder-treason. <hi>Gefford, Sanadge, Williams</hi> and <hi>York</hi> were other conspirators. <hi>Segnior Georgio</hi> the <hi>Popes Nun<g ref="char:EOLhyphen"/>tio</hi> here was a turbulent politike agent that did much harm in <hi>England,</hi> and likewise <hi>Caca
+<pb n="5" facs="tcp:156096:4"/>Fugo.</hi> Father <hi>Philips,</hi> the Queens Confessor, it is well knowne how dangerous hee hath been, for which he was sent to the Tower, <hi>Brown</hi> the Priest in the <hi>Gate-house, Canon</hi> the Bishop of <hi>Calcedon,</hi> who having liberty to walk abroad, was afterward found to say Masse, for which he now lieth condemned in <hi>New-gate. Coleman</hi> and <hi>Norton</hi> two Friers in <hi>New-gate</hi> condemned also, with Father <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> and three other Friers, with many other Priests, Friers, and Papists in the <hi>Gate-house, New-gate,</hi> and the Kings Bench, &amp;c. who have always, and daily do labour to work division and mischief in the Church and State. Ther<g ref="char:EOLhyphen"/>fore a toleration of Popery would be dange<g ref="char:EOLhyphen"/>rous to the name of the Protestant Religion, the dishonour of the Kingdom, to the offence of other Protestant Princes, and all reformed Churches, to the overthrowing of good laws made against Popish practises and the Masse, to the dishonour of God in permitting idola<g ref="char:EOLhyphen"/>try, and contrary to the Popes own resoluti<g ref="char:EOLhyphen"/>on, who wil rather grant a toleration to Jews and Turks, then Protestants; and contrary to the example of the good Kings of <hi>Judah,</hi> and of King <hi>Edward VI.</hi> who though requested thereunto by <hi>Charles</hi> the Emperour, B. <hi>Cran<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</hi> and B. <hi>Ridley,</hi> would not grant his sister the Lady <hi>Mar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to have Masse in her house.</p>
+            <p>Besides an induction of the Papists particu<g ref="char:EOLhyphen"/>lar
+<pb n="6" facs="tcp:156096:5"/>cruelty may make us afraid &amp; cautious to prevent their bloudy practices: they hang'd a good Minister in <hi>German<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> in his own house, others they drowned, as <hi>Peter Spengler</hi> at <hi>En<g ref="char:EOLhyphen"/>siglein,</hi> &amp;c. <hi>Nicolas Paul</hi> they beheaded at <hi>Gaunt;</hi> some they buried alive, as two women at <hi>Lovain, An.</hi> 1543. they have put out the eys of others, as a Priest in <hi>Germany;</hi> others they pul'd asunder by peece-meale, as <hi>John Clark</hi> at <hi>Melden:</hi> they hung up protestants by the hands with a great weight at their feet, some they poysoned, others burnt with oyle, as <hi>Stephen Brown</hi> at <hi>Poitiers;</hi> some burnt with brimstone, as <hi>Martius Alba,</hi> and <hi>Petrus Scriba</hi> at <hi>Lions;</hi> some burnt with pitch and tar drop<g ref="char:EOLhyphen"/>ing on them, as <hi>George Marsh</hi> and others; some broyled, as <hi>John Whiteman</hi> at <hi>Ostend:</hi> others had their tongues cut out, as <hi>Peter Roscan</hi> at <hi>Bloys;</hi> and it was generally decreed at <hi>Paris An.</hi> 1546. that Protestants should have their tongues cut out, others had their tongues bo<g ref="char:EOLhyphen"/>red through, as <hi>Henry Cowboron</hi> in <hi>Calabria:</hi> 10000 were slain in <hi>Paris</hi> in ten days; within four years 300 Protestants were burnt in <hi>En<g ref="char:EOLhyphen"/>gland: Vitesio</hi> Proconsul of <hi>Asia</hi> in one day beheaded 300, saying, <hi>Rem verè regiam perfe<g ref="char:EOLhyphen"/>ci,</hi> I have done a royall deed. This is the pra<g ref="char:EOLhyphen"/>ctice of the Church of <hi>Rome;</hi> God root them out of this Kingdome, that they may have no power in Church or State.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
